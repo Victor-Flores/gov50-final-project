@@ -12,3 +12,7 @@ output:
 ## Project thoughts
 
 I am interested in exploring data related to the migrant crisis in NYC, perhaps looking at demographic trends or modelling the movement of migrants to and out of NYC. Another idea is to model the cultural similarities between sending and receiving countries in terms of migration, using the World Values Survey.
+
+## Milestone 2
+
+Has the increase in migrants in New York City 
