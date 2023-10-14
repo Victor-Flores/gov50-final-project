@@ -15,4 +15,4 @@ I am interested in exploring data related to the migrant crisis in NYC, perhaps 
 
 ## Milestone 2
 
-Has the increase in migrants in New York City 
+Has the increasing population of migrants in New York City impacted the approval ratings of Mayor Adams? My independent variable will be the size of the migrant population as measured by the Department of Homeless Services daily number of families in shelters. My dependent variable is the overtime change of approval for Mayor Adams's governance. This will be measured using polling data gathered by Siena College Research Institute. I hypothesize that as a result of the strain on resources resulting from the unprecedented influx of migrants, nativist sentiments, media attention garnered by the busing scandal, and the Mayor's own public aversion to this issue, that his approval will show a negative trend as the size of the migrant population rises. If his approval were to show a positive or lack of trend, then that would disprove my hypothesis.
